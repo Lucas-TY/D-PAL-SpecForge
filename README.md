@@ -1,6 +1,6 @@
 # D-PAL training code
 
-This anonymous supplement contains the DFlash training code for D-PAL. It is
+This repository contains the DFlash training code for D-PAL. It is
 based on [SpecForge](https://github.com/sgl-project/SpecForge), and the
 upstream MIT license is kept in `LICENSE`. It contains code and example
 configs, not model weights or training data.

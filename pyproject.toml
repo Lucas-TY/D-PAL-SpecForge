@@ -8,7 +8,6 @@ dynamic = ["version"]
 readme = "README.md"
 requires-python = ">=3.10"
 description = "SpecForge: Speculative Decoding Training Framework"
-authors = [{name = "Anonymous Authors"}]
 urls = {Homepage = "https://github.com/sgl-project/SpecForge"}
 dependencies = [
     "torch==2.13.0",
