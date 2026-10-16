@@ -1,7 +1,7 @@
 # SGLang patch inventory and supported version
 
 > The patches, scripts, and tests listed here belong to upstream SpecForge and
-> are not included in this supplement. The offline DFlash recipe in `README.md`
+> are not included in this repository. The offline DFlash recipe in `README.md`
 > does not need them.
 
 SpecForge pins `sglang==0.5.18` by default. A separately versioned patch supports
